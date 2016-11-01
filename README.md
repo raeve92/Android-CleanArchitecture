@@ -1,7 +1,8 @@
 Android-CleanArchitecture [![Build Status](https://travis-ci.org/android10/Android-CleanArchitecture.svg?branch=master)](https://travis-ci.org/android10/Android-CleanArchitecture)
 =========================
+Raeve: Fork to test travis-ci.
 
-This is a sample app that is part of a blog post I have written about how to architect android application using the Uncle Bob's clean architecture approach. 
+This is a sample app that is part of a blog post I have written about how to architect android application using the Uncle Bob's clean architecture approach.
 
 [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 
@@ -32,12 +33,12 @@ Here are some useful Gradle/adb commands for executing this example:
  * `./gradlew installDebug` - Install the debug apk on the current connected device.
  * `./gradlew runUnitTests` - Execute domain and data layer tests (both unit and integration).
  * `./gradlew runAcceptanceTests` - Execute espresso and instrumentation acceptance tests.
- 
+
 Discussions
 -----------------
 
 Refer to the issues section: https://github.com/android10/Android-CleanArchitecture/issues
- 
+
 
 Code style
 -----------
